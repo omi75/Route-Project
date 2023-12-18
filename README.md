@@ -5,7 +5,7 @@ React Rouoting Project is React Project Build using React JS, JS, CSS, and HTML.
 
 <br>
 
-## 📌 **Live Site URL:** <a href="https://route-project-omi.netlify.app/signup">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://route-project-omi.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
